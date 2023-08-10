@@ -1,0 +1,91 @@
+Exporter version: 3.3.1, Blender version: 3.3.1
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  true
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+	Python World class constructor completed
+	WARNING: No active camera has been assigned, or is not in a currently enabled collection
+	processing begun of mesh:  x
+		processing begun of material:  x
+		num positions      :  492
+		num normals        :  492
+		num tangents       :  0
+		num uvs            :  984
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  186
+	processing begun of mesh:  cubeX
+		processing begun of material:  xCube
+			processing texture x
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  y
+		processing begun of material:  y
+		num positions      :  499
+		num normals        :  499
+		num tangents       :  0
+		num uvs            :  998
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  186
+	processing begun of mesh:  cubeY
+		processing begun of material:  yCube
+			processing texture y
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  z
+		processing begun of material:  z
+		num positions      :  493
+		num normals        :  493
+		num tangents       :  0
+		num uvs            :  986
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  186
+	processing begun of mesh:  cubeZ
+		processing begun of material:  zCube
+			processing texture z
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  center
+		processing begun of material:  center
+		num positions      :  2611
+		num normals        :  2611
+		num tangents       :  0
+		num uvs            :  5222
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  960
+	processing begun of node:  babylonRoot
+========= Writing of JSON file started =========
+	writing mesh:  x
+	writing mesh:  cubeX
+	writing mesh:  y
+	writing mesh:  cubeY
+	writing mesh:  z
+	writing mesh:  cubeZ
+	writing mesh:  center
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 0.0905 secs
